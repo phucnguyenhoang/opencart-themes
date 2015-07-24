@@ -11,13 +11,23 @@
     <link href="<?php echo base_url('resources/css/owl.theme.css'); ?>" rel="stylesheet">
     <link href="<?php echo base_url('resources/css/owl.transitions.css'); ?>" rel="stylesheet">
     <link href="<?php echo base_url('resources/css/orange.css'); ?>" rel="stylesheet">
+    <link href="<?php echo base_url('resources/css/category.css'); ?>" rel="stylesheet">
+    <link href="<?php echo base_url('resources/css/prettify.css'); ?>" rel="stylesheet">
+    <link href="<?php echo base_url('resources/css/font-awesome.min.css'); ?>" rel="stylesheet" type="text/css">
+    <link href="<?php echo base_url('resources/css/font-awesome.css'); ?>" rel="stylesheet" type="text/css">
 
-    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <!--[if lt IE 9]>
+    <link href="http://fonts.googleapis.com/css?family=Oswald:400,300,700" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,300,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Roboto+Slab:400,300,100,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Anton" rel="stylesheet" type="text/css">
+
+
+<!--     HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+<!--     WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--    [if lt IE 9]>-->
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
-    <![endif]-->
+<!--    <![endif]-->-->
 </head>
 <body>
 <div id="top_bar">

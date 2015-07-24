@@ -13,4 +13,16 @@ class Orange extends CI_Controller {
         $this->load->view('orange/categories');
         $this->load->view('orange/footer');
     }
+
+    public function details(){
+        $this->load->view('orange/header');
+        $this->load->view('orange/details');
+        $this->load->view('orange/footer');
+    }
+
+    public function test(){
+        //$this->load->view('orange/header');
+        $this->load->view('orange/test');
+        $this->load->view('orange/footer');
+    }
 }
